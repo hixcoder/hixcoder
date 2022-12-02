@@ -10,3 +10,4 @@
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=hixcoder&show_icons=true&theme=tokyonight)
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hixcoder&layout=compact)](https://github.com/hixcoder/github-readme-stats)
