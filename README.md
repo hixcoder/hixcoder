@@ -5,9 +5,6 @@
 - 🌱 I’m currently learning to code at 1337
 - 📫 How to reach me: hixcoder@gmail.com
 - 😄 Pronouns: He/Him
-- ⚡ Fun fact: I used to code in C
-
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=hixcoder&show_icons=true&theme=tokyonight)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hixcoder&layout=compact)](https://github.com/hixcoder/github-readme-stats)
+- ⚡ Fun fact: 
+     * I used to code in: C, C++, Dart/flutter(mobile apps)
+     * I used to design using: photoshop, figma, affinity photo and (+vedio editing essential skills with "DaVinci Resolve 17")
