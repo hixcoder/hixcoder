@@ -7,8 +7,6 @@
     </a>
 </p>
 
-
-![](https://komarev.com/ghpvc/?username=hboumahd)
 <h3 align="left">About me</h3>
 <p>
 🚀 Passionate Full Stack Developer | Seeking Internship Opportunities
@@ -29,24 +27,31 @@ Hello there! 👋 I'm Hamza Boumahdi, a student at 1337 School, I'm passionate a
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" width="40" height="40"/> 
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="40" height="40"/> 
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40" height="40"/> </a>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40" height="40"/> 
+<img src="https://raw.githubusercontent.com/bablubambal/All_logo_and_pictures/1ac69ce5fbc389725f16f989fa53c62d6e1b4883/social%20icons/javascript.svg" alt="JS" height="40" width="40" /> 
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Typescript_logo_2020.svg/2048px-Typescript_logo_2020.svg.png" width="40" height="40"/> 
  <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg"  width="40" height="40"/> 
+ 
 </p>
 
 <p> 
-<img src="https://nestjs.com/logo-small.ede75a6b.svg" width="40" height="40"/> 
+    
+<img src="https://raw.githubusercontent.com/bablubambal/All_logo_and_pictures/1ac69ce5fbc389725f16f989fa53c62d6e1b4883/social%20icons/html5.svg" alt="Html" height="40" width="40" />
+<img src="https://raw.githubusercontent.com/bablubambal/All_logo_and_pictures/1ac69ce5fbc389725f16f989fa53c62d6e1b4883/social%20icons/css3.svg" alt="CSS" height="40" width="40" />
 <img src="https://styles.redditmedia.com/t5_2su6s/styles/communityIcon_4g1uo0kd87c61.png" width="40" height="40"/> 
-<img src="https://nodejs.org/static/images/logo.svg" width="40" height="40"/> 
 <img src="https://miro.medium.com/v2/resize:fit:747/1*BiykqQAGRoKDFzfKYL8_xA.jpeg" width="40" height="40"/> 
-<img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg"   width="40" height="40"/>  
 </p>
-
 
 <p>
+<img src="https://nestjs.com/logo-small.ede75a6b.svg" width="40" height="40"/> 
+<img src="https://nodejs.org/static/images/logo.svg" width="40" height="40"/> 
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg"  width="40" height="40"/> 
 <img src="https://prismalens.vercel.app/header/logo-dark.svg" alt="git" width="40" height="40"/>  
-<img src="https://www.postgresql.org/media/img/about/press/elephant.png" alt="git" width="40" height="40"/>  
-
+<img src="https://www.postgresql.org/media/img/about/press/elephant.png" alt="git" width="40" height="40"/>
 </p>
+
+<p>
+<img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg"  width="40" height="40"/>  
+<img src="https://github.com/bablubambal/All_logo_and_pictures/blob/main/frameworks/android.svg"  width="50" height="50"/> 
+</p>
+
 </p>
