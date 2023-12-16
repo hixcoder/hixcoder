@@ -30,15 +30,17 @@ Hello there! 👋 I'm Hamza Boumahdi, a student at 1337 School, I'm passionate a
 <img src="https://raw.githubusercontent.com/bablubambal/All_logo_and_pictures/1ac69ce5fbc389725f16f989fa53c62d6e1b4883/social%20icons/javascript.svg" alt="JS" height="40" width="40" /> 
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Typescript_logo_2020.svg/2048px-Typescript_logo_2020.svg.png" width="40" height="40"/> 
  <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg"  width="40" height="40"/> 
+  <img src="https://github.com/bablubambal/All_logo_and_pictures/blob/main/programming%20languages/kotlin.svg"  width="40" height="40"/> 
  
 </p>
 
 <p> 
-    
-<img src="https://raw.githubusercontent.com/bablubambal/All_logo_and_pictures/1ac69ce5fbc389725f16f989fa53c62d6e1b4883/social%20icons/html5.svg" alt="Html" height="40" width="40" />
-<img src="https://raw.githubusercontent.com/bablubambal/All_logo_and_pictures/1ac69ce5fbc389725f16f989fa53c62d6e1b4883/social%20icons/css3.svg" alt="CSS" height="40" width="40" />
-<img src="https://styles.redditmedia.com/t5_2su6s/styles/communityIcon_4g1uo0kd87c61.png" width="40" height="40"/> 
+<a href="https://en.wikipedia.org/wiki/HTML5" target="_blank"><img src="https://raw.githubusercontent.com/bablubambal/All_logo_and_pictures/1ac69ce5fbc389725f16f989fa53c62d6e1b4883/social%20icons/html5.svg" alt="Html" height="40" width="40" /></a>  
+<a href="https://www.w3schools.com/css/" target="_blank"><img src="https://raw.githubusercontent.com/bablubambal/All_logo_and_pictures/1ac69ce5fbc389725f16f989fa53c62d6e1b4883/social%20icons/css3.svg" alt="CSS" height="40" width="40" /></a>  
+<a href="https://www.tailwindcss.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/tailwindcss.svg" alt="Tailwind CSS" height="50" /></a>  
+<a href="https://reactjs.org/" target="_blank"><img src="https://styles.redditmedia.com/t5_2su6s/styles/communityIcon_4g1uo0kd87c61.png" width="40" height="40"/> </a>  
 <img src="https://miro.medium.com/v2/resize:fit:747/1*BiykqQAGRoKDFzfKYL8_xA.jpeg" width="40" height="40"/> 
+    
 </p>
 
 <p>
@@ -47,11 +49,43 @@ Hello there! 👋 I'm Hamza Boumahdi, a student at 1337 School, I'm passionate a
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg"  width="40" height="40"/> 
 <img src="https://prismalens.vercel.app/header/logo-dark.svg" alt="git" width="40" height="40"/>  
 <img src="https://www.postgresql.org/media/img/about/press/elephant.png" alt="git" width="40" height="40"/>
+<a href="https://github.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="40" /></a>  
+<a href="https://www.gnu.org/software/bash/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/gnu_bash-icon.svg" alt="Bash" height="40" /></a>  
+    <a href="https://postman.com" target="_blank" rel="noreferrer">
+    <img
+      src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg"
+      alt="postman"
+      width="40"
+      height="40"
+    />
+  </a>
+  <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer">
+    <img
+      src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg"
+      alt="sqlite"
+      width="40"
+      height="40"
+    />
+  </a>
 </p>
 
 <p>
 <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg"  width="40" height="40"/>  
-<img src="https://github.com/bablubambal/All_logo_and_pictures/blob/main/frameworks/android.svg"  width="50" height="50"/> 
+     <a href="https://developer.android.com" target="_blank" rel="noreferrer">
+    <img src="https://github.com/bablubambal/All_logo_and_pictures/blob/main/frameworks/android.svg"  height="50"/> 
+  </a>
+
+
+<img src="https://github.com/bablubambal/All_logo_and_pictures/blob/main/text%20editors/vscode.svg"  width="40" height="40"/>  
+   <a href="https://www.figma.com/" target="_blank" rel="noreferrer">
+    <img
+      src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg"
+      alt="figma"
+      width="40"
+      height="40"
+    />
+  </a>
+
 </p>
 
 </p>
