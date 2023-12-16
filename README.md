@@ -7,11 +7,13 @@
     </a>
 </p>
 
-<h3 align="left">About me</h3>
-<p>
-🚀 Passionate Full Stack Developer | Seeking Internship Opportunities
 
-Hello there! 👋 I'm Hamza Boumahdi, a student at 1337 School, I'm passionate about building mobile and web apps. My aim is to help companies succeed in technology by using my skills. I'm dedicated to learning and making a significant impact in the tech industry.
+<h3 >About Me</h3>
+<p>
+I'm Hamza Boumahdi, a student at 1337 School.
+</p>
+<p>
+🫀 I'm passionate about building mobile and web apps. My aim is to help companies succeed in technology by using my skills. I'm dedicated to learning and making a significant impact in the tech industry. 
 </p>
 
 
@@ -87,5 +89,11 @@ Hello there! 👋 I'm Hamza Boumahdi, a student at 1337 School, I'm passionate a
   </a>
 
 </p>
+<h3 dir="auto"><strong>Profile Stats</strong></h3>
 
-</p>
+![hixcoder's GitHub stats](https://github-readme-stats.vercel.app/api?username=hixcoder&show_icons=true&theme=tokyonight)
+
+<h3 dir="auto">Visitor count</h3>
+
+  <img src="https://profile-counter.glitch.me/hixcoder/count.svg" />
+
