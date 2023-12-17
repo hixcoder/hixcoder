@@ -10,7 +10,7 @@
 
 <h3 >About Me</h3>
 <p>
-I'm Hamza Boumahdi, a student at 1337 School.
+I'm Hamza Boumahdi, a member at 1337 School.
 </p>
 <p>
 🫀 I'm passionate about building mobile and web apps. My aim is to help companies succeed in technology by using my skills. I'm dedicated to learning and making a significant impact in the tech industry. 
