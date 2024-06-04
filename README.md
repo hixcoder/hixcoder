@@ -42,11 +42,12 @@ I'm Hamza Boumahdi, a member at 1337 School.
 <a href="https://www.tailwindcss.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/tailwindcss.svg" alt="Tailwind CSS" height="50" /></a>  
 <a href="https://reactjs.org/" target="_blank"><img src="https://styles.redditmedia.com/t5_2su6s/styles/communityIcon_4g1uo0kd87c61.png" width="40" height="40"/> </a>  
 <img src="https://miro.medium.com/v2/resize:fit:747/1*BiykqQAGRoKDFzfKYL8_xA.jpeg" width="40" height="40"/> 
-    
+<img src="https://asset.brandfetch.io/idSP1Uk_AU/idGh2coG9-.jpeg" width="40" height="40"/> 
+   
 </p>
 
 <p>
-<img src="https://nestjs.com/logo-small.ede75a6b.svg" width="40" height="40"/> 
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a8/NestJS.svg/621px-NestJS.svg.png?20221211225055" width="40" height="40"/> 
 <img src="https://nodejs.org/static/images/logo.svg" width="40" height="40"/> 
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg"  width="40" height="40"/> 
 <img src="https://prismalens.vercel.app/header/logo-dark.svg" alt="git" width="40" height="40"/>  
@@ -69,6 +70,8 @@ I'm Hamza Boumahdi, a member at 1337 School.
       height="40"
     />
   </a>
+<img src="https://companieslogo.com/img/orig/supabase-554aca1c.png?t=1701239800" alt="supabase" width="40" height="40"/>  
+   
 </p>
 
 <p>
